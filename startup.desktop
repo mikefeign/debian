@@ -1,0 +1,9 @@
+// to be placed in .config/autostart
+[Desktop Entry]
+Type=Application
+Name=Autostart
+Exec=bash /home/mike/bin/startup.sh
+StartupNotify=false
+Terminal=false
+
+  
